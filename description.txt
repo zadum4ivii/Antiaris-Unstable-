@@ -1,0 +1,3 @@
+﻿This version is unstable version of Antiaris, which is not available on Mod Browser. 
+
+It contains new content which (due to development issues) never got to the official update. This version is playable but contains some issues and unfinished stuff. 

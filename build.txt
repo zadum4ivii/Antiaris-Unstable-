@@ -1,0 +1,9 @@
+version = 0.1.0.12 
+displayName = The Antiaris (Unstable) 
+author = Zadum4ivii, Gouvod, Vikri, CMTPP, Zerokk, Ignus homepage = https://forums.terraria.org/index.php?threads/antiaris.59884/
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*,
+includePDB = true
+weakReferences = TerrariaOverhaul
